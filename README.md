@@ -2,7 +2,7 @@
 
 Project demonstrating credit card related detection and formatting algorithms.
 
-Live Demo: https://turkish-banks-detection-formatting.surge.sh
+Live Demo: https://ouedyan.github.io/turkish-banks-detection-formatting-utils
 
 This project is built with [Flutter](https://flutter.dev/).
 
